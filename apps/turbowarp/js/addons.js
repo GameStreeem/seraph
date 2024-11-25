@@ -2521,13 +2521,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "updateAll", function() { return updateAll; });
 // Stylesheets are added at the end of <body> so that they have higher precedence
 // than those in <head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FN7LEVWXD"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4D3MB7D6TH"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-7FN7LEVWXD');
+          gtag('config', 'G-4D3MB7D6TH');
         </script>
  and above dark mode which is appended at the start of <body>
 const stylesheetContainer = document.createElement('div');
